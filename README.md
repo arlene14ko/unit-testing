@@ -38,7 +38,7 @@ This is a repository showing how to test a code using unittest and pytest.
           - this is where the get_users fixture is stored so it can be accessed in any python file.
 
       2. **test_program_with_pytest.py**
-          - this contains the tests using pytest, Mock object, and other pytest features for all the functions in program.py
+          - this contains the tests using pytest, Mock object, fixture, parametrization, accessing conftest and other pytest features for all the functions in program.py
 
       3. **test_program_with_unittest.py**
           - this contains the tests using unittest, pytest, and Mock objects  for all the functions in program.py
