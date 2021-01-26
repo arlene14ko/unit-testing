@@ -48,5 +48,7 @@ This is a repository showing how to test a code using unittest and pytest.
   - If you wish to clone/fork this repository, you can just click on the repository, then click the Clone/fork button and follow the instructions.
 
 ## Pending...
+
+I have two test files (test_program-with_unittest.py and test_program_with_pytest.py) because I am still figuring out how to do both in the same file.  So for now, I separate them and they are both working.
   
 ### Thank you for reading. Have fun!
