@@ -50,4 +50,3 @@ This is a repository showing how to test a code using unittest and pytest.
 ## Pending...
   
 ### Thank you for reading. Have fun!
-#unit-testing# 
