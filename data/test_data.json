@@ -1,0 +1,102 @@
+[
+        {
+            "username" : "martin",
+            "birthday" : "02/12/1995",
+            "role" : "admin"
+        },
+        { 
+            "username" : "mohammad",
+            "birthday" : "01/11/1995",
+            "role" : "user"
+        },
+        {
+            "username": "philippe",
+            "birthday": "02/12/1995",
+            "role": "admin"
+        },
+        {
+            "username" : "arlene",
+            "birthday" : "02/12/1995",
+            "role" : "user"
+        },
+        {
+            "username" : "derrick",
+            "birthday" : "02/12/1995",
+            "role" : "admin"
+        },
+        {
+            "username" : "gulce", 
+            "birthday" : "02/12/1995",
+            "role" : "user"
+        },
+        {
+            "username" : "louan",
+            "birthday" : "02/12/1995",
+            "role" : "admin"
+        },
+        {
+            "username" : "ad",
+            "birthday" : "02/12/1995",
+            "role" : "user"
+        },
+        {
+            "username" : "regis", 
+            "birthday" : "02/12/1995",
+            "role" : "admin"
+        },
+        {
+            "username" : "sijal",
+            "birthday" : "02/12/1995",
+            "role" : "user"
+        },
+        {
+            "username" : "bram",
+            "birthday" : "02/12/1985",
+            "role" : "admin"
+        },
+        {
+            "username" : "joren",
+            "birthday" : "02/12/1985",
+            "role" : "user"
+        },
+        {
+            "username" : "simon",
+            "birthday" : "02/12/1985",
+            "role" : "admin"
+        },
+        {
+            "username" : "vincent",
+            "birthday" : "02/12/1985",
+            "role" : "user"
+        },
+        {
+            "username" : "alber",
+            "birthday" : "02/12/1985",
+            "role" : "admin"
+        },
+        {
+            "username" : "chrysanthi",
+            "birthday" : "02/12/1985",
+            "role" : "user"
+        },
+        {
+            "username" : "kanchan",
+            "birthday" : "02/12/1985",
+            "role" : "admin"
+        },
+        {
+            "username" : "sharon", 
+            "birthday" : "02/12/1985",
+            "role" : "user"
+        },
+        {
+            "username" : "daniel",
+            "birthday" : "02/12/1985",
+            "role" : "admin"
+        },
+        {
+            "username" : "jonh Doe",
+            "birthday" : "02/12/1985",
+            "role" : "user" 
+        }
+]
